@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.mystic.chef.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "chef.refmap.json",
+  "mixins": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8"
+}

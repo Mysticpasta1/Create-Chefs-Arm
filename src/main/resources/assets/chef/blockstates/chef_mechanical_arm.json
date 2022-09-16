@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "ceiling=false": {
+      "model": "chef:block/chef_mechanical_arm"
+    },
+    "ceiling=true": {
+      "model": "chef:block/chef_mechanical_arm_ceiling",
+      "x": 180
+    }
+  }
+}

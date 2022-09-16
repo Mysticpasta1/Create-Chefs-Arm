@@ -59,12 +59,6 @@ Adds a mechical arm with a Chef's hat on it :>
 [[dependencies.chef]]
     modId="create"
     mandatory=true
-    versionRange="[0.5.0.d-168,)"
-    ordering="NONE"
-    side="BOTH"
-[[dependencies.chef]]
-    modId="flywheel"
-    mandatory=true
-    versionRange="[0.6.5-91,)"
+    versionRange="[0.5.0c,)"
     ordering="NONE"
     side="BOTH"
